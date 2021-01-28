@@ -1,0 +1,7 @@
+資料名稱,Molecular Biology (Splice-junction Gene Sequences),分子生物學（剪接點基因序列）,,,
+分類數目,3,,,,
+分類內容,N, EI, IE,,
+欄位編號,欄位名稱,欄位說明,,,
+1,"One of {N EI IE}, indicating the class",N=Neither, EI=(exon -> intron), IE=(intron -> exon),
+2,instance name,,,,
+3,60 sequential DNA nucleotide positions,"A=(N=22.153%,EI=20.577%)","G=(N=31.415%,EI=22.383%)","T=(N=21.771%,EI=26.445%)","C=(N=24.561%,EI=30.588%)"

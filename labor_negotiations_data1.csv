@@ -1,0 +1,28 @@
+# ,dur ,wage1 ,wage2 ,wage3 ,cola ,hours , pension  ,stby_pay ,shift_diff ,educ_allw ,holidays ,vacation  ,lngtrm_disabil ,dntl_ins ,bereavement ,empl_hplan,class
+1,2,3,7,     * ,     * ,38,       *  ,12,25, true      ,11, ba,   true             ,half            ,true    ,     *,g
+2,2,4,5,     * ,    tcf,35,       *  ,13,5,     *         ,15, gnr,     *,    *                  ,     *    ,     *,g
+3,2,4.5,5.8,     * ,     * ,35,ret_allw  ,      *        ,      *         , true      ,11,  ba,     *,full               ,     *    ,full,g
+4,2,7,5.3,     * ,     * ,     * ,       *  ,      *        ,      *         ,     *         ,11,     *,  true             ,full               ,     *    ,     *,g
+5,2,4.3,4.4,     * ,     * ,38,       *  ,      *        ,4,     *         ,12, gnr,     *       ,full               ,     *    ,full,g
+6,3,3.7,4,5,    tc ,     * ,       * ,      * ,     *         , true      ,      *       ,     *,     *       ,    *            ,true    ,     *,g
+7,3,4,5,5,    tc ,     * ,empl_contr,      *        ,     *         ,     *         ,12, gnr,true             ,none            ,true    ,half,g
+8,2,4.5,4.5,     * ,    tcf,     * ,       *  ,      *        ,     *         , true      ,10, ba,true             ,none             ,     *    ,half,g
+9,1,2.8,     * ,     * ,     * ,35,       *  ,      *        ,2,      *,12,ba,     *           ,    *              ,     *    ,     *,g
+10,1,5,     * ,     * ,     * ,40,       *  ,      *        ,2,      *,11,avg,     *           ,    *           ,  true   ,     *,g
+11,3,6.9,4.8,2.3,     * ,40,       *  ,      *        ,3,      *,12, ba,     *           ,    *          ,     *    ,     *,g
+12,2,6.4,6.4,     * ,     * ,38,       *  ,      *        ,4,      *,15,     *,     *           , full       ,     *    ,     *,g
+13,2,2,2.5,     * ,     * ,35,       *  ,      *        ,6, true      ,12, avg,     *           ,    *               ,     *    ,     *,g
+14,1,6,    * ,     * ,     * ,38,       *  ,      *        ,3,     *     ,9, gnr,     *           ,    *               ,     *    ,     *,g
+15,3,6,6,4,     * ,35,       *  ,      *        ,14,     *     ,9, gnr,true             ,full           , true   , full,g
+16,2,4.5,4,     * ,     * ,40,       *  ,      *        ,4,     *     ,10, gnr,     *            ,half            ,     *    , full,g
+17,3,5,5,5,     * ,40,       *  ,      *        ,      *         ,     *     ,12, avg,     *            , half            ,true   , half,g
+18,2,4.6,4.6,     * ,    tcf,38,       *  ,      *        ,      *         ,     *     ,     *        ,     *, true            , half             ,     *    , half,g
+19,2,2,3,     * ,none    ,38,empl_contr,*           ,*         ,true         ,12,gnr,true            ,none      ,true          ,full,b
+20,1,4,    *    ,     * ,none    ,     * ,none,*           ,*          ,true         ,11,avg,false           ,none      ,false         ,none,b
+21,3,3,2,2.5,tc    ,40,none,*           ,5,false         ,10,ba,true            ,half      ,true          ,full,b
+22,2,2.5,3,     *     ,     *  ,40,none,*           ,*          ,*            ,11,ba,     *           ,    *               ,     *    ,     *,b
+23,2,2.5,2.5,     *     ,     *  ,38,empl_contr,*           ,*          ,*            ,10,avg,     *           ,    *               ,     *    ,     *,b
+24,2,4,5,     *     ,none  ,40,none,*           ,3,false        ,10,ba,false          ,none       ,     *    ,none,b
+25,1,2.8,    * ,     *     ,none  ,38,empl_contr,2,3,false         ,9,ba,true            ,half       ,     *    ,none,b
+26,3,2,2.5,     *     ,     * ,35,none,*           ,*         ,*             ,10,avg,     *             ,    *               ,true         ,full,b
+27,2,4.5,4,     *     ,     * ,40,*,*           ,2,false         ,10,ba,false           ,half       ,     *    ,half,b

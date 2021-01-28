@@ -1,0 +1,44 @@
+資料名稱,Breast Cancer Wisconsin (Original),乳腺癌威斯康星州（原始）,
+分類數目,2,,
+分類內容,M ,B,
+欄位編號,欄位名稱,欄位說明,
+1,ID number,,
+2,Diagnosis,M = malignant,B = benign
+3,features1,Ten real-valued features are computed for each cell nucleus,"a)radius (mean of distances from center to points on the perimeter)
+b) texture (standard deviation of gray-scale values)
+c) perimeter
+d) area
+e) smoothness (local variation in radius lengths)
+f) compactness (perimeter^2 / area - 1.0)0
+g) concavity (severity of concave portions of the contour) h) concave points (number of concave portions of the contour)
+i) symmetry 
+j) fractal dimension (""coastline approximation"" - 1)"
+4,features2,,
+5,features3,,
+6,features4,,
+7,features5,,
+8,features6,,
+9,features7,,
+10,features8,,
+11,features9,,
+12,features10,,
+13,features11,,
+14,features12,,
+15,features13,,
+16,features14,,
+17,features15,,
+18,features16,,
+19,features17,,
+20,features18,,
+21,features19,,
+22,features20,,
+23,features21,,
+24,features22,,
+25,features23,,
+26,features24,,
+27,features25,,
+28,features26,,
+29,features27,,
+30,features28,,
+31,features29,,
+32,features30,,
