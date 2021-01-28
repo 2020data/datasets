@@ -1,7 +1,7 @@
-¸ê®Æ¦WºÙ,Molecular Biology (Splice-junction Gene Sequences),¤À¤l¥Íª«¾Ç¡]°Å±µÂI°ò¦]§Ç¦C¡^,,,
-¤ÀÃþ¼Æ¥Ø,3,,,,
-¤ÀÃþ¤º®e,N, EI, IE,,
-Äæ¦ì½s¸¹,Äæ¦ì¦WºÙ,Äæ¦ì»¡©ú,,,
+è³‡æ–™åç¨±,Molecular Biology (Splice-junction Gene Sequences),åˆ†å­ç”Ÿç‰©å­¸ï¼ˆå‰ªæŽ¥é»žåŸºå› åºåˆ—ï¼‰,,,
+åˆ†é¡žæ•¸ç›®,3,,,,
+åˆ†é¡žå…§å®¹,N, EI, IE,,
+æ¬„ä½ç·¨è™Ÿ,æ¬„ä½åç¨±,æ¬„ä½èªªæ˜Ž,,,
 1,"One of {N EI IE}, indicating the class",N=Neither, EI=(exon -> intron), IE=(intron -> exon),
 2,instance name,,,,
 3,60 sequential DNA nucleotide positions,"A=(N=22.153%,EI=20.577%)","G=(N=31.415%,EI=22.383%)","T=(N=21.771%,EI=26.445%)","C=(N=24.561%,EI=30.588%)"
